@@ -18,6 +18,7 @@ function getQuotes() {
         for(let quote of quotesFromServer) {
             contentDiv.innerHTML += `
                 <p>
+                
                     "${quote.text}" -${quote.author}
                 </p>
             `;

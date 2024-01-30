@@ -25,6 +25,11 @@ TODO: Add the error here followed by the line of code you fixed.
 Fixed `quote.router.js` line 28: switch `app` to `router`. _This is the solution to the first bug._
 
 ### Bug 1
+In the client Java script, and the URL Should we getQuotes.
+### Bug 2
+ HTML. I believe there's a spelling error in the form onsubmit button.
+### Bug 2
+Play in the script file I think there might be a Dopp missing online 14
 
 ...
 
